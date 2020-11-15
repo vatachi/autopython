@@ -1,2 +1,2 @@
-# stepik-auto-tests-course-python-
+# autopython
 Курс stepic по автотестированию на python
